@@ -31,3 +31,9 @@ button {
   margin-top: 1rem;
   font-weight: bold;
 }
+.valid {
+  color: green;
+}
+.invalid {
+  color: rgb(128, 0, 0);
+}
